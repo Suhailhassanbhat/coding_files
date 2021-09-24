@@ -1,0 +1,26 @@
+Embed-code template
+
+loader for Core Publisher:
+
+<p id=“xxxxxxxx” data-pym-liveblog-loader="" data-child-src="https://apps.npr.org/liveblogs/20201103-election/embed.html">Loading...</p>
+<script type="text/javascript" src="https://pym.nprapps.org/pym-loader.v1.min.js"></script>
+
+General iframe:
+
+<iframe style="overflow: hidden; overflow-x: hidden; overflow-y: hidden; display: block; height: 60vh; width: 150%; position: relative; top: 0px; left: 0px; right: 0px; bottom: 0px;" src="http://localhost:1234/hospitalCapacityTable.html" width="100%" height="100%" frameborder="0"></iframe>
+
+
+pym.js 
+
+<div id=xxxxxx></div>
+<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script>
+    var pymParent = new pym.Parent('xxxxx', 'xxxxxx.html', {});
+</script>
+
+
+
+For Core Publisher: paste this embed code in source code
+
+<iframe allowfullscreen="" frameborder="0" height="800px" marginheight="0px" marginwidth="0px" name=xxxx scrolling="yes" src="xxxxx.html" width="100%" id="xxxxx"></iframe>
+

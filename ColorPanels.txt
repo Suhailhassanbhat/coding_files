@@ -1,0 +1,41 @@
+ColorPanels
+
+const red1 =  #e85d04
+const red2 = #dc2f02
+const red3 = #d00000
+const red4 = #9d0208
+
+const orange1 = #FFA200
+const orange2 = #FF9500
+const orange3 = #FF8800
+const orange4 = #FF7B00
+
+const yellow1 = #FFC300
+const yellow2 = #FFD000
+const yellow3 = #FFDD00
+const yellow4 = #FFEA00
+
+const green1 = #bfd200
+const green2 = #55a630
+const green3 = #367c2b
+
+const blue1 = #9bb1ff
+const blue2 = #788bff
+const blue3 = #5465ff
+
+const slateblue1 = #d4c1ec
+const slateblue2 = #b8b8ff
+const slateblue3 = #9381ff
+
+const violet1 = #dec9e9
+const violet2 = #b185db
+const violet3 = #6247aa
+
+const gray1 = #EEEEEE
+const gray1 = #CCCCCC
+const gray1 = #AAAAAA
+
+const ovr = #f1f1f1
+
+
+
